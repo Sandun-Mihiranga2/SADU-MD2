@@ -58,7 +58,7 @@
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-5. Then Click [DEPLOY](https://heroku.com/deploy/https://github.com/Sandun-Mihiranga2/SADU-MD2) Button To Enjoy My Bot.
+5. Then Click [DEPLOY](https://heroku.com/deploy/) Button To Enjoy My Bot.
 
 
 ## Owner:
